@@ -3,7 +3,6 @@
 A minimal Spring Boot demo project showcasing integrations with OpenAI capabilities.
 
 Features
-- Simple REST controllers and web pages demonstrating:
 	- Text generation and prompts
 	- Embeddings and similarity search
 	- Image generation and analysis
@@ -31,9 +30,6 @@ mvn clean package
 
 Configuration
 - Edit `src/main/resources/application.properties` to set API keys and other settings.
-
-Notes
-- This project is intended as a learning/demo app. Do not use in production without reviewing security and configuration.
 
 License
 - MIT-style or adapt to your preferred license.
